@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.webprj</groupId>
-  <artifactId>Sampe_MVN_Test_1</artifactId>
+  <artifactId>Sample_MVN_Test_1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>Sampe_MVN_Test_1</name>
+  <name>Sample_MVN_Test_1</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
